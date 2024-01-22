@@ -1,6 +1,5 @@
 # darkk009
  ```js
-{
             const profile = {
                 name: "darkk009",
                 gender: "Male",
@@ -14,10 +13,9 @@
                 },
                 status: "Currently free",
                 socialMedia: {
-                    discord: "darkk009#1234",
-                    instagram: "@darkk009",
+                    discord: "darkk_009",
+                    instagram: "@itx_darkk09",
                     twitter: "@darkk009"
                 },
-                shortBio: "Never give you"
+                Bio: "Never give you"
             };
-```js
